@@ -1,8 +1,5 @@
 #!/bin/sh
 
-. /etc/os-release
-. /lib/functions/uci-defaults.sh
-
 # 设置默认主题为argon
 uci set luci.main.mediaurlbase='/luci-static/argon'
 uci commit luci

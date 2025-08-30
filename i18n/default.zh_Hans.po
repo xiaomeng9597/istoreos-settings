@@ -67,17 +67,8 @@ msgstr "IPv6 网络地址转换（NAT6）"
 msgid "Applicable to internet environments where the router is not assigned an IPv6 prefix, such as when using an upstream optical modem for dial-up."
 msgstr "适用于没有给路由分配 IPv6 前缀的上网环境，例如：上级光猫拨号"
 
-msgid "Shortcut-FE flow offloading"
-msgstr "Shortcut-FE 流量卸载"
-
-msgid "Shortcut-FE based offloading for routing/NAT"
-msgstr "基于 Shortcut-FE 的 路由/NAT 卸载"
-
 msgid "Connection Manager"
 msgstr "连接管理器"
-
-msgid "Set up the Shortcut-FE engine connection manager"
-msgstr "设置 Shortcut-FE 引擎连接管理器"
 
 msgid "Natflow offloading"
 msgstr "Natflow 流量卸载"
@@ -99,15 +90,3 @@ msgstr "前缀优先时间上限"
 
 msgid "Max valid lifetime"
 msgstr "前缀有效时间上限"
-
-msgid "Hyper Modem Server"
-msgstr "超级移动网络拨号服务"
-
-msgid "Modem Server For OpenWrt"
-msgstr "OpenWrt移动网络拨号服务"
-
-msgid "Enable Network bridge"
-msgstr "启用网络桥架"
-
-msgid "BearDropper"
-msgstr "登入管控"
